@@ -1,0 +1,33 @@
+what is responsive web design? => it should be responsive for all kind of devices.
+why it is used?=> for user convenient
+RWD>=> we should use bootstrap along with media query(optional)
+
+mobile first approach=> bootstrap
+
+Bootstrap=> it is a very popular framework that uses, html, css and JS to make responsive web pages.
+it will consume less time
+codes are inbuilt.
+we should link a cootstrap cdn link
+we can any version=>4.6
+organized presesntation.
+it doesnt has a horizontal scroll bar init. 
+fit to any screen.
+
+two methods to use bootstrap:
+
+1. copy cdn link
+2. download files.
+
+what is layout?
+while creating a responsive layout, u have an option to choose one of 2 containers.these containers are diffrent in certain access.
+1. containers=> it occupy only the mentioned width(fixed layout)
+2. container-fluid=> its occupy the entire width of the documnet=> fluid layout 
+
+why ths 12?
+6/6
+4/4/4
+3/3/3/3
+2/2/2/2/2/2
+12*1
+
+container with breakpoints:
